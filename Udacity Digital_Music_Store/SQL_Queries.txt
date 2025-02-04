@@ -1,0 +1,53 @@
+/* Query 1 - query used for first insight /
+
+SELECT G.Name,
+       T.GenreId,
+       COUNT(T.GenreID) AS No_of_Tracks,
+       (COUNT(T.genreid) *T.UnitPrice) AS Genre_Earnings_Potential
+FROM Genre G
+JOIN Track T
+ON T.GenreId = G.GenreId
+GROUP BY T.GenreId
+ORDER BY Genre_Earnings_Potential DESC
+LIMIT 10;
+
+
+/* Query 2 - query used for 2nd insight /
+
+SELECT SUM(I.UnitPrice * I.Quantity) AS Genre_Sales,
+       T.GenreId,
+       G.Name
+FROM InvoiceLine I
+JOIN Track T ON I.TrackId = T.TrackId
+JOIN Genre G ON T.GenreId = G.GenreId
+GROUP BY T.GenreId
+ORDER BY Genre_Sales DESC
+
+/* Query 3 - query used for 3rd insight /
+
+SELECT Album.ArtistId,
+       COUNT(Album.ArtistId) AS NO_of_Albums,
+       Artist.Name
+FROM Album
+JOIN Artist ON Artist.ArtistId = album.ArtistId
+GROUP BY Album.ArtistId
+ORDER BY NO_of_Albums DESC
+LIMIT 5
+
+/* Query 4 - query used for 4th insight /
+
+SELECT A.ArtistId,
+       Artist.NAME,
+       G.Name,
+       (COUNT(I.Invoiceid)*I.UnitPrice) AS Sales,
+       COUNT(i.TrackId) AS total
+FROM InvoiceLine I
+JOIN Track T ON I.TrackId = T.TrackId
+JOIN Album A ON T.AlbumId = A.AlbumId
+JOIN Genre G ON T.GenreId = G.GenreId
+JOIN Artist ON A.ArtistId=Artist.ArtistId
+GROUP BY A.ArtistId
+HAVING G.NAME LIKE 'ROCK'
+ORDER BY Total DESC
+LIMIT 10;
+
