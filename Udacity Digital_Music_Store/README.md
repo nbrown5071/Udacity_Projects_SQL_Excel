@@ -70,4 +70,4 @@ I believe you have now gained good confidence after completing this project and 
 That’s all! Keep up the good work."
 
 
-[<img src="https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/Reviewer Comments.png">](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/Reviewer Comments.png)
+[<img src="https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Reviewer%20Comments.png">](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Reviewer%20Comments.png)
