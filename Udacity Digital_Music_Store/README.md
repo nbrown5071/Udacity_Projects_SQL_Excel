@@ -6,7 +6,7 @@ This project was divided into two portions. The first portion of the project was
 
 
 
-### NYC_Airbnb_Project File Table of Contents
+### Digital Music Store Project
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [Project Rubric](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Project%20Rubric.pdf) | A .pdf file with the project requirements | 
