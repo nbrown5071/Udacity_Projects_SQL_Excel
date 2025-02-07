@@ -2,7 +2,7 @@
 
 This project was divided into two portions. The first portion of the project was designed to test my SQL abilities. As an analyst, we are often challenged with time sensitive projects. The second portion of the project demonstrates my aptitude with informal, quick analysis presentations. I used SQL to analyze the data. I used Excel to visualize the data and PowerPoint to present the data. 
 
-[<img src="https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Advanced_Spreadsheet/airbnb_NYC_3.png" alt="airbnb_NYC_3">](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Advanced_Spreadsheet/airbnb_NYC_3.png)
+[<img src="https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Project%20Visual.png" alt="Udacity Digital Music Store">](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Project%20Visual.png)
 
 {{{The Google Sheets workbook can be found <a href='https://docs.google.com/spreadsheets/d/1fC8PR8QrBSSON52mFwTbQOD3YYsWF1wl_P9Ay5MvLUI/edit?gid=1885122433#gid=1885122433'><u>here</u>.</a>}}}}
 
