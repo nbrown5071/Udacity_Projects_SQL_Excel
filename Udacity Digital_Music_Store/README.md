@@ -10,12 +10,12 @@ This project was divided into two portions. The first portion of the project was
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [Project Rubric](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Project%20Rubric.pdf) | A .pdf file with the project requirements | 
-| 2 | [Project Visual.png](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/Project Visual.png) | Visual of a PowerPoint slide in the project |
-| 3 | [README.md](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/README.md) | Current View. Contains relevant project information |
-| 4 | [Reviewer Comments .pdf](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/Reviewer Comments .pdf) | A file containing all reviewer comments on SQL code and presentation |
-| 5 | [Reviewer Comments.png](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/Reviewer Comments.png) | A picture of the reviewer comments |
-| 6 | [SQL_Queries.txt](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/SQL_Queries.txt) | A file containing the SQL code for this project |
-| 7 | [Udacity Project 2 Business Analytic Music Records - Mannie Brown.pdf](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/Udacity Project 2 Business Analytic Music Records - Mannie Brown.pdf) | A file containing the project presentation |
+| 2 | [Project Visual.png](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Project%20Visual.png) | Visual of a PowerPoint slide in the project |
+| 3 | [README.md](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/README.md) | Current View. Contains relevant project information |
+| 4 | [Reviewer Comments .pdf](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Reviewer%20Comments%20.pdf) | A file containing all reviewer comments on SQL code and presentation |
+| 5 | [Reviewer Comments.png](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Reviewer%20Comments.png) | A snip of the reviewer's comments |
+| 6 | [SQL_Queries.txt](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/SQL_Queries.txt) | A file containing the SQL code for this project |
+| 7 | [Udacity Project 2 Business Analytic Music Records - Mannie Brown.pdf](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Udacity%20Project%202%20Business%20Analytic%20Music%20Records%20-%20Mannie%20Brown.pdf) | A file containing the project presentation |
 
 
 
