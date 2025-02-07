@@ -9,8 +9,14 @@ This project was divided into two portions. The first portion of the project was
 ### NYC_Airbnb_Project File Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [NYC_Airbnb_README](https://github.com/nbrown5071/Data_projects_TripleTen/blob/main/Advanced_Spreadsheet/NYC_Airbnb_README.md) | A file with relevant information about the project, current view. | 
-| 2 | []() | description |
+| 1 | [Project Rubric.pdf](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/Project Rubric.pdf) | A file with project requirements | 
+| 2 | [Project Visual.png](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/Project Visual.png) | Visual of a PowerPoint slide in the project |
+| 3 | [README.md](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/README.md) | Current View. Contains relevant project information |
+| 4 | [Reviewer Comments .pdf](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/Reviewer Comments .pdf) | A file containing all reviewer comments on SQL code and presentation |
+| 5 | [Reviewer Comments.png](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/Reviewer Comments.png) | A picture of the reviewer comments |
+| 6 | [SQL_Queries.txt](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/SQL_Queries.txt) | A file containing the SQL code for this project |
+| 7 | [Udacity Project 2 Business Analytic Music Records - Mannie Brown.pdf](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/Udacity Project 2 Business Analytic Music Records - Mannie Brown.pdf) | A file containing the project presentation |
+
 
 
 | Section Title | Description |
@@ -64,4 +70,4 @@ I believe you have now gained good confidence after completing this project and 
 That’s all! Keep up the good work."
 
 
-[<img src="">]()
+[<img src="https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/Reviewer Comments.png">](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/Reviewer Comments.png)
