@@ -9,7 +9,7 @@ This project was divided into two portions. The first portion of the project was
 ### NYC_Airbnb_Project File Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Project Rubric](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/Project Rubric.pdf) | A file with project requirements | 
+| 1 | [Project Rubric](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Project%20Rubric.pdf) | A .pdf file with the project requirements | 
 | 2 | [Project Visual.png](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/Project Visual.png) | Visual of a PowerPoint slide in the project |
 | 3 | [README.md](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/README.md) | Current View. Contains relevant project information |
 | 4 | [Reviewer Comments .pdf](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity Digital_Music_Store/Reviewer Comments .pdf) | A file containing all reviewer comments on SQL code and presentation |
