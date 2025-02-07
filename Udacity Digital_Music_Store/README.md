@@ -36,7 +36,7 @@ For this project, I was tasked with querying the [Chinook Database](https://gith
 
 
 ### Data
-Database can be found <a href='https://github.com/lerocha/chinook-database'><u>here</u>.</a>. Media related data was created using real data from an iTunes Library. 
+Database can be found <a href='https://github.com/lerocha/chinook-database'><u>here</u></a>. Media related data was created using real data from an iTunes Library. 
 It contains 11 tables with defined relationships:
 Artist, Album, Track
                      - AlbumId in the Track table is a foreign key linked to the AlbumId (primary key) in the Album table.
