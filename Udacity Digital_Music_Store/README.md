@@ -35,7 +35,7 @@ For this project, I was tasked with querying the [Chinook Database](https://gith
 •	A .txt file of four SQL query codes formatted with sqlformat.org for readability. Each query must be unique and must use a join, subquery, or other advanced function. 
 
 
-### Data
+### About the Data
 Database can be found <a href='https://github.com/lerocha/chinook-database'><u>here</u></a>. Media related data was created using real data from an iTunes Library. 
 It contains 11 tables with defined relationships:
 Artist, Album, Track
