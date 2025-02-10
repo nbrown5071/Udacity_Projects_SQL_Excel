@@ -32,6 +32,7 @@ This project was divided into two portions. The first portion of the project was
 For this project, I was tasked with querying the [Chinook Database](https://github.com/lerocha/chinook-database) which holds information about the music store. Udacity provided a link to the database file. I uploaded the database to my SQLlite server. The first portion of this projection involved several challenge questions provided by Udacity. After answering the questions, I then explored the data and developed questions based on my exploration of the data. We were required to submit the following. 
 
 •	Four Microsoft PowerPoint Slides. Each slide is titled with a question and has a brief description and answer with a visualization. 
+
 •	A .txt file of four SQL query codes formatted with sqlformat.org for readability. Each query must be unique and must use a join, subquery, or other advanced function. 
 
 
