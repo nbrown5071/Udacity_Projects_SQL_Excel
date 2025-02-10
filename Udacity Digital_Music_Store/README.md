@@ -39,16 +39,20 @@ For this project, I was tasked with querying the [Chinook Database](https://gith
 ### About the Data
 Database can be found <a href='https://github.com/lerocha/chinook-database'><u>here</u></a>. Media related data was created using real data from an iTunes Library. 
 It contains 11 tables with defined relationships:
+
 Artist, Album, Track
-                     - AlbumId in the Track table is a foreign key linked to the AlbumId (primary key) in the Album table.
-                     - MediaTypeId in the Track table is a foreign key linked to the MediaTypeId (primary key) in the MediaType table.
-                     - GenreId in the Track table is a foreign key linked to the GenreId (primary key) in the Genre table. 
+
+- AlbumId in the Track table is a foreign key linked to the AlbumId (primary key) in the Album table.
+- MediaTypeId in the Track table is a foreign key linked to the MediaTypeId (primary key) in the MediaType table.
+- GenreId in the Track table is a foreign key linked to the GenreId (primary key) in the Genre table. 
 MediaType, Playlist, PlaylistTrack
-                     - PlaylistId in the PlaylistTrack table is a foreign key linked to the PlaylistId (primary key) in the Playlist table.
-                     - TrackId in the PlaylistTrack table is a foreign key linked to the TrackId (primary key) in the Track table.
+
+- PlaylistId in the PlaylistTrack table is a foreign key linked to the PlaylistId (primary key) in the Playlist table.
+- TrackId in the PlaylistTrack table is a foreign key linked to the TrackId (primary key) in the Track table.
 Genre, Employee, Customer, Invoice, InvoiceLine
-                    - InvoiceId in the InvoiceLine table is a foreign key linked to the InvoiceId (primary key) in the Invoice table.
-                    - TrackId in the InvoiceLine table is a foreign key linked to the TrackId (primary key) in the Track table.
+
+- InvoiceId in the InvoiceLine table is a foreign key linked to the InvoiceId (primary key) in the Invoice table.
+- TrackId in the InvoiceLine table is a foreign key linked to the TrackId (primary key) in the Track table.
 
 ### Process
 First, I reviewed the data dictionary, and I explored the data in order to make myself aware of potential cleaning, formatting, filtering, etc. After exploring the data, I answered the challenge questions provided by Udacity. Next, I developed questions based on my exploration; ensuring not to duplicate any challenge questions. I then wrote SQL code to answer the questions while checking my work to ensure validity and correctness. Finally, I downloaded the data to excel to visualize it. To present my findings and visualizations, I created a PowerPoint presentation and saved it as a PDF for ease of viewing. I also formatted my code and submitted it as a txt file. I completed this project in about three hours. 
