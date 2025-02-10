@@ -40,17 +40,14 @@ For this project, I was tasked with querying the [Chinook Database](https://gith
 Database can be found <a href='https://github.com/lerocha/chinook-database'><u>here</u></a>. Media related data was created using real data from an iTunes Library. 
 It contains 11 tables with defined relationships:
 
-Artist, Album, Track
+Tables: Artist, Album, Track, MediaType, Playlist, PlaylistTrack, Genre, Employee, Customer, Invoice, InvoiceLine
 
+Relationships: 
 - AlbumId in the Track table is a foreign key linked to the AlbumId (primary key) in the Album table.
 - MediaTypeId in the Track table is a foreign key linked to the MediaTypeId (primary key) in the MediaType table.
 - GenreId in the Track table is a foreign key linked to the GenreId (primary key) in the Genre table. 
-MediaType, Playlist, PlaylistTrack
-
 - PlaylistId in the PlaylistTrack table is a foreign key linked to the PlaylistId (primary key) in the Playlist table.
 - TrackId in the PlaylistTrack table is a foreign key linked to the TrackId (primary key) in the Track table.
-Genre, Employee, Customer, Invoice, InvoiceLine
-
 - InvoiceId in the InvoiceLine table is a foreign key linked to the InvoiceId (primary key) in the Invoice table.
 - TrackId in the InvoiceLine table is a foreign key linked to the TrackId (primary key) in the Track table.
 
