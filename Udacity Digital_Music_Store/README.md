@@ -1,6 +1,8 @@
 ﻿# Project Title: Digital Music Store
 
-This project was divided into two portions. The first portion of the project was designed to test my SQL abilities. As an analyst, we are often challenged with time sensitive projects. The second portion of the project demonstrates my aptitude with informal, quick analysis presentations. I used SQL to analyze the data. I used Excel to visualize the data and PowerPoint to present the data. 
+This project was divided into two portions. The first portion of the project was designed to test my SQL abilities with challenge questions. The second part of the project tested my aptitude for conductiong my own analysis and presenting my findings.  I used SQL to analyze the data. I used Excel to visualize the data and PowerPoint to present the data. 
+
+UPDATE: I located the challenge questions from Udacity in order to add them to this project file because they demostrate complex SQL queries.  I re-executed the queries in mySQL in order to add them to this project. They can be found in the table of contents below or [here](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Udacity%20Challenge%20Questions%20Chinook%20DB%20FORMATTED.txt) 
 
 [<img src="https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Project%20Visual.png" alt="Udacity Digital Music Store">](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Project%20Visual.png)
 
@@ -15,7 +17,9 @@ This project was divided into two portions. The first portion of the project was
 | 4 | [Reviewer Comments .pdf](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Reviewer%20Comments%20.pdf) | A file containing all reviewer comments on SQL code and presentation |
 | 5 | [Reviewer Comments.png](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Reviewer%20Comments.png) | A snip of the reviewer's comments |
 | 6 | [SQL_Queries.txt](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/SQL_Queries.txt) | A file containing the SQL code for this project |
-| 7 | [Udacity Project 2 Business Analytic Music Records - Mannie Brown.pdf](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Udacity%20Project%202%20Business%20Analytic%20Music%20Records%20-%20Mannie%20Brown.pdf) | A file containing the project presentation |
+| 7 | [Udacity Challenge Questions Chinook DB FORMATTED.txt](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Udacity%20Challenge%20Questions%20Chinook%20DB%20FORMATTED.txt) | A txt file containing project challenge questions and answers. Advanced SQL queries with comments for complex code. | 
+| 8 | [Udacity Project 2 Business Analytic Music Records - Mannie Brown.pdf](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Udacity%20Project%202%20Business%20Analytic%20Music%20Records%20-%20Mannie%20Brown.pdf) | A file containing the project presentation |
+| 9 | [Udacity SQL Project Challenge Questions.pdf](Udacity SQL Project Challenge Questions.pdf) | A pdf file containing project challenge questions. Advanced SQL queries, in color, without comments | 
 
 
 
