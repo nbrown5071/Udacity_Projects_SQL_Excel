@@ -19,7 +19,7 @@ UPDATE: I located the challenge questions from Udacity in order to add them to t
 | 6 | [SQL_Queries.txt](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/SQL_Queries.txt) | A file containing the SQL code for this project |
 | 7 | [Udacity Challenge Questions Chinook DB FORMATTED.txt](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Udacity%20Challenge%20Questions%20Chinook%20DB%20FORMATTED.txt) | A txt file containing project challenge questions and answers. Advanced SQL queries with comments for complex code. | 
 | 8 | [Udacity Project 2 Business Analytic Music Records - Mannie Brown.pdf](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Udacity%20Project%202%20Business%20Analytic%20Music%20Records%20-%20Mannie%20Brown.pdf) | A file containing the project presentation |
-| 9 | [Udacity SQL Project Challenge Questions.pdf](Udacity SQL Project Challenge Questions.pdf) | A pdf file containing project challenge questions. Advanced SQL queries, in color, without comments | 
+| 9 | [Udacity SQL Project Challenge Questions.pdf](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/Udacity%20Digital_Music_Store/Udacity%20SQL%20Project%20Challenge%20Questions.pdf) | A pdf file containing project challenge questions. Advanced SQL queries, in color, without comments | 
 
 
 
