@@ -5,7 +5,7 @@ This is my first project for the Business Analytic course through Udacity. This 
 [<img src="https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/NYSE_Financial_Modeling_Forecasting_Statistics/Financial%20Modeling%20Dashboard.png" alt="Financial_Modeling_Dashboard">](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/NYSE_Financial_Modeling_Forecasting_Statistics/Financial%20Modeling%20Dashboard.png)
 
 The Google Sheets workbook can be found <a href='https://docs.google.com/spreadsheets/d/1A1VgcxuDm-rnEmlDVM0nhRlcc0UdcsAbTlgP5Vp6GLc/edit?usp=sharing'><u>here</u>.</a>
-The Financial Modeling and Forecasting sheets are interactive. You can apply a variety of Tickers from the New York Stock Exchange to view performance metrics. 
+The Financial Modeling and Forecasting sheets are interactive. You can apply a variety of Tickers from the New York Stock Exchange to view performance metrics. I executed this analysis and the visuals in excel. I uploaded the file to Google Sheets in order to share my work without viewers having to download the file from the table of contents below. 
 
 ### NYSE Financial Modeling, Forecasting, & Statistics Project Table of Contents
 | File Number | Title | Description |
@@ -36,7 +36,8 @@ The New York Stock Exchange (NYSE) is an American stock exchange in the Financia
 The project utilized real life data from the NYSE. The data was received from the Udacity learning platform. It is a smaller subset of data drawn from [Kaggle](https://www.kaggle.com/datasets/dgawlik/nyse).  For the project, we were provided one .csv file containing the data from the NYSE. 
 
 ### Process & Skills 
-After converting the .csv file to Excel, I first created a tab with the project objectives and instructions. I proceeded with cleaning and manipulating the data. I calculated measures of central tendancy and performed explorartory analysis with pivot tables. I then created two tabs for the forecasting and financial modeling deliverables. I designed then and used the data along with the appropriate formulas to complete them. Lastly, I created a project presentation slide based on my exploratory analysis of the data. To ensure design and calculation correctness, Udacity provided some simple questions to test the Forecasting and Financial Modeling portions of the project. For example: What is the Operating Income reported by EBAY in 2014? "2,476,000,000"
+After converting the .csv file to Excel, I first created a tab with the project objectives and instructions. I proceeded with cleaning and manipulating the data. I calculated measures of central tendancy and performed explorartory analysis with pivot tables. I then created two tabs for the forecasting and financial modeling deliverables. I designed then and used the data along with the appropriate formulas to complete them. Lastly, I created a project presentation slide based on my exploratory analysis of the data. To ensure design and calculation correctness, Udacity provided some simple questions to test the Forecasting and Financial Modeling portions of the project. 
+For example: What is the Operating Income reported by EBAY in 2014? Answer: "2,476,000,000"
 
 - Interpreting measures of central tendency and spread (mean, median, standard deviation, range).
 - Utilizing a combination of Excel or Google Sheets functions (e.g., IF statements, INDEX, MATCH, OFFSET, VLOOKUP, calculating descriptive statistics, dropdowns, data validation).
