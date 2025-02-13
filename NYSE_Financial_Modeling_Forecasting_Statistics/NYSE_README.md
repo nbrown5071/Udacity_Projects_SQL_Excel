@@ -57,8 +57,8 @@ For example: What is the Operating Income reported by EBAY in 2014? Answer: "2,4
 This project was very challenging. It required a lot of design and data thinking in order to present the deliverables. I am very proud of this project. The interative sheets are my favorite part. 
 
 ### Reviewer’s Comments
-Reviewer Note
-Excellent work in your use of INDEX and MATCH statements. It helped you in creating a dynamic dashboard for the Profit and loss statement and Forecasting.
+Reviewer Note:
+"Excellent work in your use of INDEX and MATCH statements. It helped you in creating a dynamic dashboard for the Profit and loss statement and Forecasting."
 
 [<img src="https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/NYSE_Financial_Modeling_Forecasting_Statistics/Reviewer%20Comments.pdf">](https://github.com/nbrown5071/Udacity_Projects_SQL_Excel/blob/main/NYSE_Financial_Modeling_Forecasting_Statistics/Reviewer%20Comments.pdf)
 
